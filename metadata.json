@@ -1,0 +1,6 @@
+{
+  "name": "Room Rent Manager",
+  "description": "A comprehensive React Web Interface to manage room listings, track tenants, manage active and historic bookings, and monitor room availability with precise real-time counters of days remaining until rental release.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
